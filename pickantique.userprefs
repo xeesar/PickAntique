@@ -1,0 +1,48 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Services/LoggingService.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AdMobScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/LoggingService.cs" Line="28" Column="9" />
+      <File FileName="Assets/Scripts/Purchaser.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NavigationScript.cs" Line="31" Column="4" />
+      <File FileName="Assets/Scripts/ProgressManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/StopTheLock/Scripts/LatchScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/StopTheLock/Scripts/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MenuItem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets/StopTheLock/Scripts/DotPosition.cs" Line="1" Column="1" />
+      <File FileName="Assets/StopTheLock/Scripts/SignsHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TimeScript.cs" Line="29" Column="78" />
+      <File FileName="Assets/Scripts/PlayScreen.cs" Line="61" Column="1" />
+      <File FileName="Assets/Scripts/WinResultsManagerOld.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Models/PlayerData.cs" Line="1" Column="1" />
+      <File FileName="Assets/StopTheLock/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HighscoresScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WinResultsManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TutorialScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GoldToGemScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AdScript.cs" Line="45" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\GIT\pickantique\Assets\Scripts\ProgressManager.cs" line="81" column="1" />
+      <Breakpoint file="D:\GIT\pickantique\Assets\Scripts\ProgressManager.cs" line="93" column="1" />
+      <Breakpoint file="D:\GIT\pickantique\Assets\Scripts\ProgressManager.cs" line="100" column="1" />
+      <Breakpoint file="D:\GIT\pickantique\Assets\Scripts\Purchaser.cs" line="82" column="1" />
+      <Breakpoint file="D:\GIT\pickantique\Assets\Scripts\Purchaser.cs" line="141" column="1" />
+      <Breakpoint file="D:\GIT\pickantique\Assets\Scripts\Purchaser.cs" line="173" column="1" />
+      <Breakpoint file="D:\GIT\pickantique\Assets\Scripts\Purchaser.cs" line="135" column="1" />
+      <Breakpoint file="D:\GIT\pickantique\Assets\Scripts\Purchaser.cs" line="54" column="1" />
+      <Breakpoint file="D:\GIT\pickantique\Assets\Scripts\AdMobScript.cs" line="27" column="80" />
+      <Breakpoint file="D:\GIT\pickantique\Assets\Scripts\AdMobScript.cs" line="31" column="1" />
+      <Breakpoint file="/Users/muagkov/pickantique/Assets/StopTheLock/Scripts/SignsHolder.cs" line="67" column="1" />
+      <Breakpoint file="/Users/muagkov/pickantique/Assets/StopTheLock/Scripts/SignsHolder.cs" line="217" column="1" />
+      <Breakpoint file="/Users/muagkov/pickantique/Assets/StopTheLock/Scripts/SignsHolder.cs" line="201" column="1" />
+      <Breakpoint file="/Users/muagkov/pickantique/Assets/StopTheLock/Scripts/SignsHolder.cs" line="145" column="1" />
+      <Breakpoint file="/Users/muagkov/pickantique/Assets/Scripts/ProgressManager.cs" line="192" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

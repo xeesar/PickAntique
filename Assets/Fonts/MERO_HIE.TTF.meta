@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: eecaf4ad7a85b4ad1a6dcd1d9e0113a5
+timeCreated: 1485453361
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Meroitic - Hieroglyphics
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

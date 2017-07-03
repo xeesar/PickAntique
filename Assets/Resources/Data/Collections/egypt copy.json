@@ -1,0 +1,624 @@
+{
+	"name" : "egypt",
+	"displayName" : "Egypt Collection",
+	"baseImagesUrl": "Images/Collections/Egypt/",
+	"items" : [
+		{
+			"name" : "Spoon",
+			"price" : 0,
+			"id" : 0,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_01_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_01_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_01_03",
+					"description" : "An important toiletry item of highborn persons of Ancient Egypt. Cosmetic spoons were made of various materials such as bronze, silver, copper, ivory and were used for mixing cosmetics and for storing snuff tobacco. Spoon handles were made in the form of animals.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+
+			]
+		},
+		{
+			"name" : "Glass",
+			"price" : 0,
+			"id" : 1,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_02_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_02_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_02_03",
+					"description" : "Glass is supposed to be invented in Ancient Egypt. The findings of different expeditions prove this hypothesis. The composition of Egyptian glass was different from the modern one, which made it possible to fuse it at a lower temperature. Glass was used to make beads, amphorae, vases and to decorate jars.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Canopic jar",
+			"price" : 0,
+			"id" : 2,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_03_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_03_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_03_03",
+					"description" : "The necessary part of Ancient Egyptian burial process. A talisman which accompanied the soul of the dead person into Duat. They were used to preserve the embalmed viscera of the dead person. There were four jars to match the four cardinal directions. Each jar had the head of one of the Horus’s sons on top",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Was Sceptre",
+			"price" : 0,
+			"id" : 3,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_04_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_04_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_04_03",
+					"description" : "The Ancient Egyptian hieroglyph symbolizing power, health. It was a staff with a top shaped like an animal’s head that possessed healing properties. In the hands of gods it represented prosperity and happiness. Its image was used to adorn the tombs of influential Egyptians. The inherent attribute of Osiris",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Sistrum",
+			"price" : 0,
+			"id" : 4,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_05_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_05_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_05_03",
+					"description" : "A ceremonial musical instrument in the form of a rattle that produces melodious sounds when shaken. The symbol of perpetual movement. Egyptians believed it to be a sacred instrument and used it in temples. It could repel evil spirits with its sound. Only privileged Egyptians had the right to play the sistrum.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Sundial",
+			"price" : 0,
+			"id" : 5,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_06_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_06_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_06_03",
+					"description" : "A device for telling time in the form of a disk made from limestone, on which a black semicircle divided into twelve equal segments was drawn. In the centre there was a hole for the rod. The sundial was invented after Egyptians discovered the correlation between time and the movement of the sun in the sky.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Eye of Horus",
+			"price" : 0,
+			"id" : 6,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_07_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_07_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_07_03",
+					"description" : "One of the most important Ancient Egyptian amulets. It embodied the eye of Horus, the god of the sky and the sun. Egyptians were buried with an amulet in the shape of the Eye of Horus as it was considered to help them be reborn in the afterlife. Nowadays the Eye of Horus is a symbol of divine protection.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Bes",
+			"price" : 0,
+			"id" : 7,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_08_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_08_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_08_03",
+					"description" : "One of the most popular gods of Ancient Egypt who looked like an ugly dwarf. The patron of pregnant women, children, old people. The protector of households who defended families from evil spirits. Amulets with the image of Bes were believed to save hunters from death.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Khopesh",
+			"price" : 0,
+			"id" : 8,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_09_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_09_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_09_03",
+					"description" : "The kind of Ancient Egyptian cold weapon made of bronze. A sickle-sword with a hilt which symbolized an animal’s leg and was a necessary part of the burial process of great warriors and pharaohs. Egyptians believed that the Khopesh possessed some magic power to protect its owner from evil spirits.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Scarab",
+			"price" : 0,
+			"id" : 9,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_10_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_10_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_10_03",
+					"description" : "One of the sacred symbols of Ancient Egypt. Egyptians believed the Scarab to be the personification of the god Khepri who embodied the rising sun and symbolized its power. It also represented rebirth in Duat. Adornments in the form of scarabs were considered powerful amulets protecting from evil spell.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Ibis",
+			"price" : 0,
+			"id" : 10,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_11_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_11_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_11_03",
+					"description" : "The sacred animal of Ancient Egypt. The symbol of tranquility and grace. The embodiment of Thoth, the god of wisdom, who was depicted as a man with an ibis’s head. Ancient Egyptians believed Ibis to be the founder of writing and literature. The arrival of ibises meant a near overflow of the river Neil.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Mummy",
+			"price" : 0,
+			"id" : 11,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_12_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_12_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_12_03",
+					"description" : "A body exposed to special chemicals in order to slower down its decay. A modern passport was made for the transportation of the mummy of Rameses II to France. “The King (deceased)” was stated as his occupation. On arrival at the airport the mummy was paid all the royal honours.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Anubis",
+			"price" : 0,
+			"id" : 12,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_13_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_13_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_13_03",
+					"description" : "The god of Ancient Egypt, the son of Osiris, depicted as a jackal or a dog. The patron and the judge of the dead, the guard of tombs. He was believed to guide the dead souls into Duat where he passed judgment in the Hall of Two Truths. Egyptians thought Anubis to be the creator of embalming and funeral rites.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Book of Dead",
+			"price" : 0,
+			"id" : 13,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_14_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_14_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_14_03",
+					"description" : "A collection of Ancient Egyptian sacred texts containing spells for the dead which were intended to help their souls find the way to the underworld and find eternal peace there. The hieroglyphs were written on papyrus. The fragments of the Book were inscribed on tomb walls and the covers of sarcophagi.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Bastet",
+			"price" : 0,
+			"id" : 14,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_15_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_15_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_15_03",
+					"description" : "The Ancient Egyptian goddess of love. The symbol of joy, fertility, health, sun- and moonlight. The guard of the god Ra. Basts had two entities: the good Bast was a woman with a cat’s head, while the evil Bast had a lion’s head. The statuettes of Basts were kept in homes for protection against evil spirits.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Nefertiti",
+			"price" : 0,
+			"id" : 15,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_16_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_16_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_16_03",
+					"description" : "It is made of limestone and covered with a plaster blend. It was found in 1912 during the excavations of the Ancient Egyptian city Akhetaton and secretly brought to Berlin where it was owned by Hitler for a long time. He wanted to create a replica of the bust and return it to Egypt while keeping the original.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Ankh",
+			"price" : 0,
+			"id" : 16,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_17_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_17_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_17_03",
+					"description" : "One of the most significant symbols of Ancient Egypt that represented everlasting youth, wisdom, immortality. It was pictured on the walls of temples as a symbol of protection and worn as an amulet. The ankh was placed into the pharaohs’ tombs for the pharaohs to continue their life in the underworld.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Tutankhamun",
+			"price" : 0,
+			"id" : 17,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_18_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_18_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_18_03",
+					"description" : "The symbol of Ancient Egypt. Tutankhamun’s mask is made of pure gold and decorated with semiprecious stones. It was found in 1922 during the expedition to the Valley of the Kings. It has a great historic, cultural and jewelry value and is believed by Egyptians to be a kind of a talisman. It is kept in the museum of Cairo.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Horus",
+			"price" : 0,
+			"id" : 18,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_19_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_19_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_19_03",
+					"description" : "The Ancient Egyptian god of the sky and the sunlight. The embodiment of power and might. The patron of rulers and pharaohs. Egyptians depicted him as a human with a falcon’s head. The symbol of Horus was a solar disk with wings. He enforced order and was worshipped by travellers.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Seth",
+			"price" : 0,
+			"id" : 19,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_20_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_20_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_20_03",
+					"description" : "The god of violence, the brother of Osiris. The embodiment of evil, war and gloom. He was depicted as a man with a donkey’s head and red eyes. His sacred animal was the pig, a symbol of disgust among the gods, and also a donkey. Although Seth was evil personified, he was revered by Ancient Egyptian pharaohs.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Isis",
+			"price" : 0,
+			"id" : 20,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_21_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_21_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_21_03",
+					"description" : "The Ancient Egyptian goddess of agriculture, fertility, wind and water. The wife of Osiris who raised him from the dead. The symbol of loyalty, selflessness and care. The patron of the dead. The image of Isis was pictured on the covers of sarcophagi. She also protected mothers and children from diseases.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Osiris",
+			"price" : 0,
+			"id" : 21,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_22_01",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_22_02",
+					"description" : "...collect 3 stars for description",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_22_03",
+					"description" : "The god and the first pharaoh of Ancient Egypt, the symbol of care. The patron of agriculture and stock-breeding. The protector of common people. The king of the dead, he decided the fates of souls in Duat. Egyptians depicted Osiris as an ordinary man in a white shroud with a heqa sceptre in his hand.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		}
+	]
+}

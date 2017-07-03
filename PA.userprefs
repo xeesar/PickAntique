@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\Android\AndroidManifest.xml">
+    <Files>
+      <File FileName="Assets\Scripts\ProgressManager.cs" Line="38" Column="2" />
+      <File FileName="Assets\Scripts\PlayScreen.cs" Line="46" Column="4" />
+      <File FileName="Assets\Scripts\WinResultsManagerOld.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WinResultsManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GoldToGemScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Purchaser.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AdMobScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\AdmobAPI\Admob.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CloseItemButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BindCircleForImage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TimeScript.cs" Line="16" Column="12" />
+      <File FileName="Assets\Scripts\SubMenuItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Fading.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\Android\AndroidManifest.xml" Line="11" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\GIT\PA\Assets\Scripts\TimeScript.cs" line="29" column="1" />
+      <Breakpoint file="D:\GIT\PA\Assets\Scripts\PlayScreen.cs" line="49" column="1" />
+      <Breakpoint file="D:\GIT\PA\Assets\Scripts\PlayScreen.cs" line="143" column="1" />
+      <Breakpoint file="D:\GIT\PA\Assets\Scripts\PlayScreen.cs" line="139" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

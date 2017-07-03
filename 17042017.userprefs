@@ -1,0 +1,38 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\StopTheLock\Scripts\SignsHolder.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LoadingScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AdMobScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Purchaser.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Jam Menu Template\Scripts\ShowPanels.cs" Line="39" Column="3" />
+      <File FileName="Assets\Plugins\UnityPurchasing\script\IAPDemo.cs" Line="24" Column="39" />
+      <File FileName="Assets\Plugins\UnityPurchasing\script\IAPButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\UnityPurchasing\script\ComboBox.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\UnityPurchasing\script\PurchasingCheck.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\AdmobAPI\Admob.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\UnityPurchasing\script\Demo\DemoInventory.cs" Line="1" Column="1" />
+      <File FileName="Assets\StopTheLock\Scripts\GameManager.cs" Line="117" Column="22" />
+      <File FileName="Assets\StopTheLock\Scripts\TimeBarScript.cs" Line="31" Column="2" />
+      <File FileName="Assets\StopTheLock\Scripts\BonusManager.cs" Line="135" Column="29" />
+      <File FileName="Assets\StopTheLock\Scripts\SignsHolder.cs" Line="190" Column="1" />
+      <File FileName="Assets\StopTheLock\Scripts\Player.cs" Line="210" Column="18" />
+      <File FileName="Assets\InGameFrameTimer\InGameFrameTimer.cs" Line="46" Column="1" />
+      <File FileName="Assets\StopTheLock\Scripts\ColorManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\StopTheLock\Scripts\SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PopUpPanelScript.cs" Line="13" Column="2" />
+      <File FileName="Assets\Scripts\SubMenuItem.cs" Line="17" Column="16" />
+      <File FileName="Assets\Scripts\ShareScript.cs" Line="46" Column="1" />
+      <File FileName="..\..\Users\Pavel\Downloads\ShareScore\ShareScore\Assets\share.cs" Line="13" Column="2" />
+      <File FileName="Assets\Scripts\WinResultsManager.cs" Line="465" Column="21" />
+      <File FileName="Assets\Scripts\ProgressManager.cs" Line="273" Column="45" />
+      <File FileName="Assets\StopTheLock\Scripts\ScreenShake.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\PA\17042017\Assets\Scripts\ShareScript.cs" line="46" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

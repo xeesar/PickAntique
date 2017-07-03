@@ -1,0 +1,456 @@
+{
+	"name" : "egypt",
+	"displayName" : "Egypt Collection",
+	"baseImagesUrl": "Images/Collections/Egypt/",
+	"items" : [
+		{
+			"name" : "Scarab",
+			"price" : 0,
+			"id" : 0,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_01_01",
+					"description" : "Scarabs were popular amulets and impression seals in Ancient Egypt.",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_01_02",
+					"description" : "Scarabs were popular amulets and impression seals in Ancient Egypt.  The Egyptian god Khepri, Ra as the rising sun,",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_01_03",
+					"description" : "Scarabs were popular amulets and impression seals in Ancient Egypt.  The Egyptian god Khepri, Ra as the rising sun, was often depicted as a scarab beetle or as a scarab beetle-headed man.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+
+			]
+		},
+		{
+			"name" : "Bes",
+			"price" : 0,
+			"id" : 1,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_02_01",
+					"description" : "Bes is an Ancient Egyptian deity worshipped as a protector of households,",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_02_02",
+					"description" : "Bes is an Ancient Egyptian deity worshipped as a protector of households, and in particular, of mothers and children and childbirth.",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_02_03",
+					"description" : "Bes is an Ancient Egyptian deity worshipped as a protector of households, and in particular, of mothers and children and childbirth. Bes later came to be regarded as the defender of everything good and the enemy of all that is bad.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Eye of Horus",
+			"price" : 0,
+			"id" : 2,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_03_01",
+					"description" : "The Eye of Horus is an ancient Egyptian symbol of protection, royal power and good health.",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_03_02",
+					"description" : "The Eye of Horus is an ancient Egyptian symbol of protection, royal power and good health. The eye is personified in the goddess Wadjet. ",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_03_03",
+					"description" : "The Eye of Horus is an ancient Egyptian symbol of protection, royal power and good health. The eye is personified in the goddess Wadjet. The Eye of Horus is similar to the Eye of Ra, which belongs to a different god, Ra, but represents many of the same concepts.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Bastet",
+			"price" : 0,
+			"id" : 3,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_05_03",
+					"description" : "Bastet was a goddess in ancient Egyptian religion, worshiped as early as the 2nd Dynasty (2890 BC).",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_05_03",
+					"description" : "Bastet was a goddess in ancient Egyptian religion, worshiped as early as the 2nd Dynasty (2890 BC). As Bast, she was the goddess of warfare in Lower Egypt,",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_05_03",
+					"description" : "Bastet was a goddess in ancient Egyptian religion, worshiped as early as the 2nd Dynasty (2890 BC). As Bast, she was the goddess of warfare in Lower Egypt, the Nile River delta region, before the unification of the cultures of ancient Egypt.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Canopic jar",
+			"price" : 0,
+			"id" : 4,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_06_01",
+					"description" : "Canopic jars were used by the ancient Egyptians during the mummification. ",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_06_02",
+					"description" : "Canopic jars were used by the ancient Egyptians during the mummification. Each jar was reserved for specific organs.",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_06_03",
+					"description" : "Canopic jars were used by the ancient Egyptians during the mummification. Each jar was reserved for specific organs. Hapi, the baboon-headed god representing the north, whose jar contained the lungs and was protected by the goddess Nephthys.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Khopesh",
+			"price" : 0,
+			"id" : 5,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_07_01",
+					"description" : "Khopesh is an Egyptian sickle-sword that evolved from battle axes.",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_07_02",
+					"description" : "Khopesh is an Egyptian sickle-sword that evolved from battle axes.A typical khopesh is 50–60 cm (20–24 inches) in length, though smaller examples do also exist.",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_07_03",
+					"description" : "Khopesh is an Egyptian sickle-sword that evolved from battle axes.A typical khopesh is 50–60 cm (20–24 inches) in length, though smaller examples do also exist. The blunted edge of the weapon's tip also served as an effective bludgeon, as well as a hook.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "Nefertiti",
+			"price" : 0,
+			"id" : 6,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_08_01",
+					"description" : "Neferneferuaten Nefertiti (ca. 1370 – ca. 1330 BC) was an Egyptian queen and the Great Royal Wife (chief consort) of Akhenaten,",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_08_02",
+					"description" : "Neferneferuaten Nefertiti (ca. 1370 – ca. 1330 BC) was an Egyptian queen and the Great Royal Wife (chief consort) of Akhenaten, an Egyptian Pharaoh.With her husband,",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_08_03",
+					"description" : "Neferneferuaten Nefertiti (ca. 1370 – ca. 1330 BC) was an Egyptian queen and the Great Royal Wife (chief consort) of Akhenaten, an Egyptian Pharaoh.With her husband, she reigned at what was arguably the wealthiest period of Ancient Egyptian history.",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 7,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 8,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 9,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 10,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 11,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 12,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 13,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 14,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 15,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		}
+	]
+}

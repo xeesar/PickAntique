@@ -1,0 +1,456 @@
+{
+	"name" : "egypt",
+	"displayName" : "Egypt Collection",
+	"baseImagesUrl": "Images/Collections/Egypt/",
+	"items" : [
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 0,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 1,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 2,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 3,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 4,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 5,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 6,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 7,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 8,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 9,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 10,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 11,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 12,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 13,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 14,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		},
+		{
+			"name" : "anch",
+			"price" : 0,
+			"id" : 15,
+			"grades" : [
+				{
+					"grade" : 0,
+					"image" : "1_1",
+					"description" : "Descr",
+					"minPrice": 100,
+					"maxPrice" : 300
+				},
+				{
+					"grade" : 1,
+					"image" : "1_2",
+					"description" : "Descr",
+					"minPrice": 310,
+					"maxPrice" : 600
+				},
+				{
+					"grade" : 2,
+					"image" : "1_3",
+					"description" : "Descr",
+					"minPrice": 610,
+					"maxPrice" : 999
+				}
+			]
+		}
+	]
+}

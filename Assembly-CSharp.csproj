@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{44B68124-F955-5AE9-5CEB-1D6A35AA6969}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_4_2;UNITY_5_4;UNITY_5;UNITY_ADS;UNITY_PURCHASING;UNITY_ANALYTICS;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EDITOR_RETINA;ENABLE_RETINA_GUISTYLES;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;DEVELOPMENT_BUILD;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/Unity54/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/Unity54/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Epic Toon FX\Demo\ParticleEffectsShowcase\Scripts\PEButtonScript.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\ParticleEffectsShowcase\Scripts\PEDestoryTimed.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\ParticleEffectsShowcase\Scripts\ParticleEffectsLibrary.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\ParticleEffectsShowcase\Scripts\UICanvasManager.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\DragMouseOrbit.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\LoadSceneOnClick.cs" />
+     <Compile Include="Assets\Epic Toon FX\Scripts\lightScript.cs" />
+     <Compile Include="Assets\Epic Toon FX\Scripts\loopScript.cs" />
+     <Compile Include="Assets\FacebookSDK\Examples\Scripts\ConsoleBase.cs" />
+     <Compile Include="Assets\FacebookSDK\Examples\Scripts\LogView.cs" />
+     <Compile Include="Assets\FacebookSDK\Examples\Scripts\MenuBase.cs" />
+     <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\AccessTokenMenu.cs" />
+     <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\AppEvents.cs" />
+     <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\AppInvites.cs" />
+     <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\AppLinks.cs" />
+     <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\AppRequests.cs" />
+     <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\DialogShare.cs" />
+     <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\GameGroups.cs" />
+     <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\GraphRequest.cs" />
+     <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\MainMenu.cs" />
+     <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\Pay.cs" />
+     <Compile Include="Assets\Game Jam Menu Template\Scripts\DontDestroy.cs" />
+     <Compile Include="Assets\Game Jam Menu Template\Scripts\EventSystemChecker.cs" />
+     <Compile Include="Assets\Game Jam Menu Template\Scripts\Pause.cs" />
+     <Compile Include="Assets\Game Jam Menu Template\Scripts\PlayMusic.cs" />
+     <Compile Include="Assets\Game Jam Menu Template\Scripts\QuitApplication.cs" />
+     <Compile Include="Assets\Game Jam Menu Template\Scripts\SetAudioLevels.cs" />
+     <Compile Include="Assets\Game Jam Menu Template\Scripts\ShowPanels.cs" />
+     <Compile Include="Assets\Game Jam Menu Template\Scripts\StartOptions.cs" />
+     <Compile Include="Assets\InGameFrameTimer\InGameFrameTimer.cs" />
+     <Compile Include="Assets\Particle Ribbon\Scripts\ReverseNormals.cs" />
+     <Compile Include="Assets\Script\PlayAnimOnKeyUp.cs" />
+     <Compile Include="Assets\Scripts\AdMobScript.cs" />
+     <Compile Include="Assets\Scripts\AdScript.cs" />
+     <Compile Include="Assets\Scripts\BarScript.cs" />
+     <Compile Include="Assets\Scripts\BindCircleForImage.cs" />
+     <Compile Include="Assets\Scripts\BindCircleForShader.cs" />
+     <Compile Include="Assets\Scripts\ChestConfigFactory.cs" />
+     <Compile Include="Assets\Scripts\CloseItemButton.cs" />
+     <Compile Include="Assets\Scripts\Collection\Collection.cs" />
+     <Compile Include="Assets\Scripts\Collection\CollectionItem.cs" />
+     <Compile Include="Assets\Scripts\Enums\ChestGrades.cs" />
+     <Compile Include="Assets\Scripts\Enums\ItemGrades.cs" />
+     <Compile Include="Assets\Scripts\Enums\ResultsGrades.cs" />
+     <Compile Include="Assets\Scripts\Extensions\UISetExtensions.cs" />
+     <Compile Include="Assets\Scripts\Fading.cs" />
+     <Compile Include="Assets\Scripts\FullCollectionScript.cs" />
+     <Compile Include="Assets\Scripts\GoldToGemScript.cs" />
+     <Compile Include="Assets\Scripts\Helper.cs" />
+     <Compile Include="Assets\Scripts\HighscoresScript.cs" />
+     <Compile Include="Assets\Scripts\Input\SwipeHandler.cs" />
+     <Compile Include="Assets\Scripts\Input\TouchHandler.cs" />
+     <Compile Include="Assets\Scripts\LoadingScript.cs" />
+     <Compile Include="Assets\Scripts\Menu.cs" />
+     <Compile Include="Assets\Scripts\MenuItem.cs" />
+     <Compile Include="Assets\Scripts\Models\CollectionModel.cs" />
+     <Compile Include="Assets\Scripts\Models\CollectionProgressModel.cs" />
+     <Compile Include="Assets\Scripts\Models\ItemModel.cs" />
+     <Compile Include="Assets\Scripts\Models\PlayerData.cs" />
+     <Compile Include="Assets\Scripts\Models\WinResults.cs" />
+     <Compile Include="Assets\Scripts\NavigationScript.cs" />
+     <Compile Include="Assets\Scripts\PlayScreen.cs" />
+     <Compile Include="Assets\Scripts\PopUpPanelScript.cs" />
+     <Compile Include="Assets\Scripts\ProgressManager.cs" />
+     <Compile Include="Assets\Scripts\Purchaser.cs" />
+     <Compile Include="Assets\Scripts\RealToGemsScript.cs" />
+     <Compile Include="Assets\Scripts\ScenesManager.cs" />
+     <Compile Include="Assets\Scripts\SelectedItem.cs" />
+     <Compile Include="Assets\Scripts\Services\CollectionService.cs" />
+     <Compile Include="Assets\Scripts\Services\LoggingService.cs" />
+     <Compile Include="Assets\Scripts\ShareScript.cs" />
+     <Compile Include="Assets\Scripts\SubMenuItem.cs" />
+     <Compile Include="Assets\Scripts\TimeScript.cs" />
+     <Compile Include="Assets\Scripts\TutorialScript.cs" />
+     <Compile Include="Assets\Scripts\UIScript.cs" />
+     <Compile Include="Assets\Scripts\WinResultsManager.cs" />
+     <Compile Include="Assets\Scripts\WinResultsManagerOld.cs" />
+     <Compile Include="Assets\StopTheLock\Scripts\BonusManager.cs" />
+     <Compile Include="Assets\StopTheLock\Scripts\ColorManager.cs" />
+     <Compile Include="Assets\StopTheLock\Scripts\DotPosition.cs" />
+     <Compile Include="Assets\StopTheLock\Scripts\GameManager.cs" />
+     <Compile Include="Assets\StopTheLock\Scripts\LatchScript.cs" />
+     <Compile Include="Assets\StopTheLock\Scripts\MonoBehaviourHelper.cs" />
+     <Compile Include="Assets\StopTheLock\Scripts\Player.cs" />
+     <Compile Include="Assets\StopTheLock\Scripts\ScreenShake.cs" />
+     <Compile Include="Assets\StopTheLock\Scripts\SignsHolder.cs" />
+     <Compile Include="Assets\StopTheLock\Scripts\SoundManager.cs" />
+     <Compile Include="Assets\StopTheLock\Scripts\TimeBarScript.cs" />
+     <None Include="Assets\Epic Toon FX\EpicToonFX - ReadMe.txt" />
+     <None Include="Assets\InGameFrameTimer\Readme.txt" />
+     <None Include="Assets\Game Jam Menu Template\Fonts\OpenSans\License!.txt" />
+     <None Include="Assets\Shader\CircleShader.shader" />
+     <None Include="Assets\Shader\Additive_Base.shader" />
+     <None Include="Assets\FacebookSDK\link.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Particle Ribbon\readme_Simple_Particle_Ribbon.txt" />
+     <None Include="Assets\Game Jam Menu Template\GameJamTemplateReadMe.txt" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/Program Files/Unity54/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity54/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity54/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity54/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>C:/Program Files/Unity54/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="Facebook.Unity">
+ <HintPath>C:/PA/30-06-2017/Assets/FacebookSDK/Plugins/Facebook.Unity.dll</HintPath>
+ </Reference>
+ <Reference Include="Facebook.Unity.Settings">
+ <HintPath>C:/PA/30-06-2017/Assets/FacebookSDK/Plugins/Settings/Facebook.Unity.Settings.dll</HintPath>
+ </Reference>
+ <Reference Include="Editor">
+ <HintPath>C:/PA/30-06-2017/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Purchasing.Common">
+ <HintPath>C:/PA/30-06-2017/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
+ </Reference>
+ <Reference Include="Security">
+ <HintPath>C:/PA/30-06-2017/Assets/Plugins/UnityPurchasing/Bin/Security.dll</HintPath>
+ </Reference>
+ <Reference Include="Stores">
+ <HintPath>C:/PA/30-06-2017/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
+ </Reference>
+ <Reference Include="Apple">
+ <HintPath>C:/PA/30-06-2017/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
+ </Reference>
+ <Reference Include="Tizen">
+ <HintPath>C:/PA/30-06-2017/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
+ </Reference>
+ <Reference Include="winrt">
+ <HintPath>C:/PA/30-06-2017/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{4CEF5F9A-BFD5-AFA1-338F-883DF11DBEC6}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

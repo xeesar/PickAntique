@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ChestConfigFactory.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WinResultsManagerOld.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WinResultsManager.cs" Line="436" Column="35" />
+      <File FileName="Assets/Scripts/ProgressManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/StopTheLock/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/StopTheLock/Scripts/BonusManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/StopTheLock/Scripts/ColorManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/StopTheLock/Scripts/DotPosition.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ChestConfigFactory.cs" Line="14" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

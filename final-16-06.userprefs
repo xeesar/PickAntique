@@ -1,0 +1,38 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ShareScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AdScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WinResultsManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\StopTheLock\Scripts\SignsHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShareScript.cs" Line="37" Column="17" />
+      <File FileName="Assets\Scripts\UIScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GoldToGemScript.cs" Line="1" Column="1" />
+      <File FileName="..\17042017\Assets\Scripts\AdScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\InGameFrameTimer\InGameFrameTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\FacebookSDK\Examples\Scripts\MenuBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AdMobScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\Android\AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Assets\StopTheLock\Scripts\BonusManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\StopTheLock\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\StopTheLock\Scripts\ColorManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RealToGemsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TutorialScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\StopTheLock\Scripts\SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\StopTheLock\Scripts\ScreenShake.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BindCircleForShader.cs" Line="1" Column="1" />
+      <File FileName="Assets\StopTheLock\Scripts\TimeBarScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\StopTheLock\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\StopTheLock\Scripts\DotPosition.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\PA\final-16-06\Assets\Scripts\ShareScript.cs" line="117" column="1" />
+      <Breakpoint file="C:\PA\final-16-06\Assets\StopTheLock\Scripts\Player.cs" line="32" column="1" />
+      <Breakpoint file="C:\PA\final-16-06\Assets\StopTheLock\Scripts\Player.cs" line="124" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{51BB0F00-ABC8-7A8D-DBFA-6754A954FDD2}") = "pickantique", "Assembly-CSharp-firstpass.csproj", "{F81C9517-019C-7BF0-CCCD-3FEFAA647076}"
+EndProject
+Project("{51BB0F00-ABC8-7A8D-DBFA-6754A954FDD2}") = "pickantique", "Assembly-CSharp.csproj", "{D19C3674-B898-13FC-6182-D5D535578F8E}"
+EndProject
+Project("{51BB0F00-ABC8-7A8D-DBFA-6754A954FDD2}") = "pickantique", "Assembly-CSharp-Editor-firstpass.csproj", "{2E01C192-D7E5-7A33-14DF-07A9A6C0C6CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81C9517-019C-7BF0-CCCD-3FEFAA647076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81C9517-019C-7BF0-CCCD-3FEFAA647076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81C9517-019C-7BF0-CCCD-3FEFAA647076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81C9517-019C-7BF0-CCCD-3FEFAA647076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19C3674-B898-13FC-6182-D5D535578F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19C3674-B898-13FC-6182-D5D535578F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19C3674-B898-13FC-6182-D5D535578F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19C3674-B898-13FC-6182-D5D535578F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E01C192-D7E5-7A33-14DF-07A9A6C0C6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E01C192-D7E5-7A33-14DF-07A9A6C0C6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E01C192-D7E5-7A33-14DF-07A9A6C0C6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E01C192-D7E5-7A33-14DF-07A9A6C0C6CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
